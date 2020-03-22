@@ -1,0 +1,1 @@
+sox --info -B mp3\\fast\\2018年10月13日正午のNHKニュース.mp3
